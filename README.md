@@ -3,6 +3,8 @@
 <h1>This is a proof of concept using the insecure protocol HTTP and is 
 not recommeded for any kind of production</h1>
 
+<h2>Write-up can be found <a href="">here</a></h2>
+
 <h2>Hardware</h2>
 <ul>
   <li>Raspberry Pi 4B</li>
