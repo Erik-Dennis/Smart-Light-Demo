@@ -11,3 +11,12 @@ not recommeded for any kind of production</h1>
   <li>2 Jumper Wires</li>
 </ul>
 
+<h2>Software and Programming Languages</h2>
+<ul>
+  <li>HTML/CSS/JS (Basic Webpage and interfacing with the API)</li>
+  <li>NodeJS (API middleman to allow clients to interface with server)</li>
+  <li>Python (Scripts called from the API to control GPIO pins)</li>
+  <li>Apache2 (Used to host the webpage)</li>
+  <li>cron (Used to call a bash script to start the API on boot)</li>
+  <li>systemctl (used to start Apache2 on boot)</li>
+</ul>
